@@ -269,6 +269,20 @@ h2, h3, h4, h5, h6 {
   right: 15px;
 }
 
+.menu {
+  color: #444444!important;
+  transition: all ease-in-out 0.3s;
+}
+
+.menu:hover {
+  color: #ffb03b!important;
+  transition: all ease-in-out 0.3s;
+}
+
+.menuprice {
+  color: #444444!important;
+}
+
 @media (max-width: 1366px) {
   .nav-menu .drop-down .drop-down ul {
     left: -90%;
